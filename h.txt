@@ -1,5 +1,7 @@
 checking merge 
 
-modified h.txt
+checking merge with conflicts
 
 another modification done
+
+can i do it 
