@@ -5,3 +5,7 @@ checking merge with conflicts
 another modification done
 
 can i do it 
+modified h.txt
+
+another modification done
+modiified h.txt
