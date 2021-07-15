@@ -1,0 +1,1 @@
+checking merge option in branches g.txt
